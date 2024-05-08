@@ -24,11 +24,10 @@
 ### input
 
 #### 속성
-![img.png](img.png)
+![image](https://github.com/terranking1/TIL/assets/92567159/ce43e284-25a2-479b-b55b-c5f28ccc80b0)
 
 #### 유형
-![img_1.png](img_1.png)
-
+![image](https://github.com/terranking1/TIL/assets/92567159/2f305094-65c9-4878-86f7-954e472d0a41)
 
 ### form 실습
 ```html
