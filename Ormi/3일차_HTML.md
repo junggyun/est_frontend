@@ -26,7 +26,7 @@
 
 #### 부모, 형제, 자식, 자손
 
-![alt text](image-3.png)
+![image](https://github.com/terranking1/TIL/assets/92567159/7b66979e-13b1-4cfa-9fed-de99fd9c8e5d)
 
 ```html
 <html>
@@ -90,7 +90,8 @@
 
 ---
 
-![alt text](image-4.png)
+![image](https://github.com/terranking1/TIL/assets/92567159/32a45167-29da-4c72-9088-0089fbd6496e)
+
 
 #### block
 
@@ -108,7 +109,7 @@
 
 #### block / inline / inline-block
 
-![alt text](image-5.png)
+![image](https://github.com/terranking1/TIL/assets/92567159/a129cca9-27b8-4e5c-a026-66f89a826d7f)
 
 <br>
 <br>
@@ -254,7 +255,7 @@
   - `alt`: 대체 텍스트, 이미지에 대한 설명
     - `alt=""`: 생략이 아닌 빈 값!
 
-![alt text](image-6.png)
+![image](https://github.com/terranking1/TIL/assets/92567159/692e9fc4-24ad-4bb7-bb50-e72d3ddd3cca)
 
 ## 기타
 
