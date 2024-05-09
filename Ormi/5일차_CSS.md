@@ -94,7 +94,7 @@ https://css-speedrun.netlify.app/
 > important 는 최대한 사용하지 않기!
 
 ### CSS Box Model
-
+![image](https://github.com/terranking1/TIL/assets/92567159/ff38838c-0357-4553-8e95-1a94385a7ff0)
 
 #### box-sizing
 - `content-box`: 기본값. width,height
