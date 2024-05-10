@@ -36,8 +36,10 @@
 #### fixed
 - 뷰포트를 기준으로! (현재 보이는 화면)
 
-#### stick
+#### sticky
+- 조상에 스크롤이 있다면 가장 가까운 부모 요소의 컨텐츠 영역에 붙는다.
 
+![image](https://github.com/terranking1/TIL/assets/92567159/7c625c8c-76c3-4cb5-abdb-9ee56f567962)
 
 #### z-index
 - static은 적용 불가
