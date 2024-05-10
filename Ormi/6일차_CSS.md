@@ -90,5 +90,6 @@
 - 유진 멘토님의 진으로 연습해봤습니다!
 
 
-![image](https://github.com/terranking1/TIL/assets/92567159/5f7f9534-88a1-49e0-be6d-6a6abf165d5a)
+![image](https://github.com/terranking1/TIL/assets/92567159/9b7e61bc-ae0e-48db-8eab-759636cf2523)
+
 
