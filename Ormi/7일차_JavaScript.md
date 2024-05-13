@@ -57,6 +57,9 @@ function 라면레시피() {
 > width, height의 %는 부모 요소 기준, vw vh는 뷰포트 기준
 
 #### flex 연습
+![image](https://github.com/terranking1/TIL/assets/92567159/518074b2-ef42-47b2-8685-2125e16d45f7)
+
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -114,6 +117,7 @@ function 라면레시피() {
 </body>
 </html>
 ```
+
 
 ### 생소, 어려웠던 내용
 
