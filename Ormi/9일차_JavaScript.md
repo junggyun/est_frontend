@@ -209,3 +209,7 @@ const obj = {
 - 가볍게라도 알아놓기
   - 깊스너큐(깊이우선탐색 스택 너비우선탐색 큐)
   - 물데네전세표응(OSI7계층)
+
+#### 기타 자료
+![image](https://github.com/terranking1/TIL/assets/92567159/52a59fb3-5469-4e7f-8f39-e3269e3e4e55)
+
